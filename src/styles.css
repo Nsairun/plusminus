@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.whole{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    background-color: aquamarine;
+    background-size: cover;
+}
+
+.minus {
+    height: 5vh;
+    width: 5vw;
+    border-radius:20px ;
+    margin:4%;
+}
+
+.plus {
+    height: 5vh;
+    width: 5vw;
+    border-radius:20px ;
+    margin: 4%;
+}
